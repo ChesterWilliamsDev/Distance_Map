@@ -27,7 +27,7 @@ circle.addTo(myMap);
 // City markers
 var cities = [{
   location: [38.627003, -90.199402],
-  name: "Kipp",
+  name: "Kipp High School",
   distance: "252.155",
 },
 {
@@ -57,7 +57,7 @@ var cities = [{
 },
 {
   location: [38.6000799, -90.2369533],
-  name: "Roosevelt High Schoo",
+  name: "Roosevelt High School",
   distance: "251.52",
 },
 {
